@@ -1,7 +1,6 @@
 print('romo!')
 
-print('romo 好傻')
-
+print('romo 好聪明')
 
 def romo():
     pass
