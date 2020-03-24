@@ -6,3 +6,11 @@ def romo():
     pass
 
 pass
+
+# romo
+def A():
+    pass
+
+A()
+
+# romo
